@@ -29,13 +29,14 @@ The site is static and needs no build configuration. For a project repository, t
 | --- | --- | --- |
 | Move | Left/right arrows or A/D | Left stick or D-pad |
 | Fire | Space | A or right trigger |
-| Start or restart | Enter | Menu button |
+| Start, pause, or resume | Enter | Menu button |
+| Restart after game over | Enter | Menu button |
 
-You can also use the on-screen button to start or restart. If a controller isn't detected, connect it and press a button; support varies by browser and operating system.
+You can also use the on-screen button to start, resume, or restart. If a controller isn't detected, connect it and press a button; support varies by browser and operating system.
 
 ## How to play
 
-- Destroy all 55 invaders to win. You start with three lives, and the game also ends if an invader reaches your defense line.
+- Clear all 55 invaders to advance to the next wave. Your score, lives, and shield damage carry over. Later waves start closer to your defense line in a repeating pattern. You start with three lives, and the game ends if you run out of lives or an invader reaches your defense line.
 - Shields absorb shots from both sides and wear away as they take damage.
 - Shoot the UFO crossing the top of the screen for bonus points.
 - Use the sound button below the screen to mute or unmute audio. Your high score is saved in browser storage when available.
